@@ -1,3 +1,4 @@
+// Kiểm tra tính thắng thua tại bàn cờ hiện tại
 #include <iostream>
 #include <fstream>
 using namespace std;
